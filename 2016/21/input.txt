@@ -1,0 +1,7 @@
+reverse positions 1 through 6
+rotate based on position of letter a
+swap position 4 with position 1
+reverse positions 1 through 5
+move position 5 to position 7
+swap position 4 with position 0
+swap position 4 with position 6
